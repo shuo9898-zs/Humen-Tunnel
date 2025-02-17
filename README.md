@@ -1,7 +1,8 @@
 A Novel Vision Inspection System for Tunnel Deformation
 Detection Based on Image Processing
 
-Abstract
+Abstract:
+
 The deformation of the tunnel slope requires daily monitoring for ensuring construction safety.
 The traditional approach adopts manpower to conduct daily manual measurements repetitively,
 which is labor-costing, time-consuming, and inaccurate. To ameliorate this issue, a novel vision
@@ -16,6 +17,7 @@ tion, d) checkerboard corners detection, and e) camera shake removal. Finally, w
 indoor and outdoor experiments for testing the proposed vision inspection system, and the results
 show that the proposed method can automatically detect the deformation of the tunnel with high
 accuracy.
+
 Keywords: Tunnel Deformation Monitoring, Image Processing, Automatic Construction
 
 ![image](https://github.com/user-attachments/assets/ed40fc7c-8c24-44f3-8f64-bc9a73ee95cd)
