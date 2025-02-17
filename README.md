@@ -19,6 +19,8 @@ accuracy.
 Keywords: Tunnel Deformation Monitoring, Image Processing, Automatic Construction
 
 ![image](https://github.com/user-attachments/assets/ed40fc7c-8c24-44f3-8f64-bc9a73ee95cd)
-![image](https://github.com/user-attachments/assets/30ccd075-46a3-40d2-8cff-727f893eda14)
+
+![image](https://github.com/user-attachments/assets/de40dbc4-f1dc-4f3b-8a99-b8b19d7eed74)
+
 ![image](https://github.com/user-attachments/assets/0ffb5c19-7d46-4eba-822b-c3fa0565d073)
 
